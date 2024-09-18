@@ -5,3 +5,7 @@
 Required Libraries are tensorflow, streamlit, numpy, scikit-learn, opencv-python, tqdm.
 
 Dataset is obtained from kaggle  https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
+
+To run streamlit module follow the below commands:
+- python file_name.py
+- streamlit run file_name.py
